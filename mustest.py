@@ -48,7 +48,7 @@ for i in data:
     sum_time = (int(time_in_table[0])*60+int(time_in_table[1]))/60
     q = round(sum_time,1)
     print(q)
-
+print("Hallo Roman")
 
 # for item in data:
     # print("|", item[0], item[1], item[2], item[3], item[4])
